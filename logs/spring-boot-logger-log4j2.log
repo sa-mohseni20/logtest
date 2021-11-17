@@ -1,13 +1,13 @@
-2021-11-17 13:50:25,908 INFO amin o.s.b.StartupInfoLogger [main] Starting DemoApplication using Java 11 on DESKTOP-KVS30K0 with PID 3228 (C:\Users\Hosseini\IdeaProjects\logtest\build\classes\java\main started by Hosseini in C:\Users\Hosseini\IdeaProjects\logtest)
-2021-11-17 13:50:25,913 INFO amin o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
-2021-11-17 13:50:26,558 INFO amin o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
-2021-11-17 13:50:26,565 INFO amin o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
-2021-11-17 13:50:26,570 INFO amin o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
-2021-11-17 13:50:26,570 INFO amin o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.54]
-2021-11-17 13:50:26,621 INFO amin o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
-2021-11-17 13:50:26,622 INFO amin o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 677 ms
-2021-11-17 13:50:26,874 INFO amin o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
-2021-11-17 13:50:26,888 INFO amin o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
-2021-11-17 13:50:26,897 INFO amin o.s.b.StartupInfoLogger [main] Started DemoApplication in 1.516 seconds (JVM running for 2.274)
-2021-11-17 13:50:26,900 WARN amin c.b.DemoApplication [main] A warning appeared
-2021-11-17 13:50:26,909 ERROR amin c.b.DemoApplication [main] EVENT: java.lang.Exception: This is another test.
+2021-11-17 14:50:17,361 INFO amin o.s.b.StartupInfoLogger [main] Starting DemoApplication using Java 11 on DESKTOP-KVS30K0 with PID 6644 (C:\Users\Hosseini\IdeaProjects\logtest\build\classes\java\main started by Hosseini in C:\Users\Hosseini\IdeaProjects\logtest)
+2021-11-17 14:50:17,367 INFO amin o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-11-17 14:50:18,000 INFO amin o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-11-17 14:50:18,007 INFO amin o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-11-17 14:50:18,009 INFO amin o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2021-11-17 14:50:18,009 INFO amin o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-17 14:50:18,057 INFO amin o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-11-17 14:50:18,058 INFO amin o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 660 ms
+2021-11-17 14:50:18,333 INFO amin o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-11-17 14:50:18,348 INFO amin o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-11-17 14:50:18,359 INFO amin o.s.b.StartupInfoLogger [main] Started DemoApplication in 1.541 seconds (JVM running for 2.449)
+2021-11-17 14:50:18,361 WARN amin c.b.DemoApplication [main] A warning appeared
+2021-11-17 14:50:18,368 ERROR amin c.b.DemoApplication [main] EVENT: java.lang.Exception: This is another test.
